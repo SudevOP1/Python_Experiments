@@ -34,5 +34,5 @@
 ✅ 32. tkLogin<br/>
 ❌ 33. sqlStudents<br/>
 ❌ 34. sqlEmployees<br/>
-❌ 35. dataAnalysisStudent<br/>
+✅ 35. dataAnalysisStudent<br/>
 ❌ 36. dataAnalysisSales<br/>
